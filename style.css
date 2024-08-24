@@ -1,0 +1,140 @@
+.box-1 {
+  display: flex;
+}
+
+.box-1 .bank-logo {
+  padding-top: 15px;
+  padding-left: 5px;
+  width: 60px;
+  height: 60px;
+}
+
+
+.element-one{
+  line-height: 18px;
+  padding-top: 20px;
+  width: 150px;
+}
+
+.element-one .bank_name{
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+  padding-left: 3px;
+}
+
+.element-one .content-one{
+  font-size: 11px;
+  font-weight: bold;
+  color: white;
+  padding-left: 3px;
+}
+
+.element-one .content-two{
+  color: white;
+  font-weight: bold;
+  font-size: 12px;
+  padding-left: 3px;
+}
+
+.element-two{
+  display: flex;
+  flex-direction: column;
+}
+
+.element-two .content-elements{
+  display: flex;
+  flex-direction: row;
+  width: 200px;
+}
+
+.platinum-content{
+  color: white;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-left: 50px;
+  font-size: 30px;
+}
+
+.insta-element{
+  color: white;
+  font-weight: bold;
+  padding-top: 30px;
+  font-size: 16px;
+}
+
+.privileged-content{
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  padding-left: 110px;
+  padding-bottom: 5px;
+}
+
+
+.box-2{
+  height: 100px;;
+}
+
+
+.chip {
+  width: 100px;
+  height: 80px;
+  padding-left: 60px;
+  padding-top: 20px;
+}
+
+.box-3 {
+  color: white;
+  font-size: 30px;
+  font-weight: 500;
+  padding-left: 40px;
+  padding-right: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.box-4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-right: 0;
+  padding-left: 40px;
+  height: 100%;
+}
+
+.valid-from,
+.valid-thru {
+            
+  color: white;          
+  font-size: 12px;            
+  width: 30px;
+  font-weight: bold;
+  padding-top: 10px;
+ }
+
+.service-date,
+.expiry-date {
+     
+  font-size: 20px;
+  color: white;
+  padding-top: 15px;
+ }
+
+ .rupay-element{
+  font-size: 30px;
+  font-style: italic;
+  color: white;
+  font-weight: bold;
+  flex: 1;
+  padding-left:20px;
+ }
+
+ .debit-element{
+  padding-left:40px;
+  font-size: 20px;
+  font-style: italic;
+  color: white;
+  font-weight: bold;
+ }
